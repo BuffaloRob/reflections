@@ -1,0 +1,2 @@
+1)What happens when you initialize a repository? Why do you need to do it?
+	It starts a new repository, this needs to be done because it's the first logical step. With out it there would be no place to save future commits
