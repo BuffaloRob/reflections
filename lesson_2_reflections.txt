@@ -1,2 +1,12 @@
 1)What happens when you initialize a repository? Why do you need to do it?
 	It starts a new repository, this needs to be done because it's the first logical step. With out it there would be no place to save future commits
+
+2) How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	The staging area is self-explanitory, it stages changes ready to be commited. Not sure really why you wouldn't just make a commit.
+
+3) How can you use the staging area to make sure you have one commit per logical change?
+	Run the git diff command to see the difference between what you have staged and the original, does the change shown constitute a logical change?
+
+4) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	Anything expiramental comes to mind first, but I could also see branches being useful for things like customizing something for a particular clients needs. Branches would help by allowing you to use all the work put into the master to customize it for a particular application while at the same time not changing the master so that it would still be adaptable for other customers.
