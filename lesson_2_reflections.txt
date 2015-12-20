@@ -10,3 +10,6 @@
 
 4) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 	Anything expiramental comes to mind first, but I could also see branches being useful for things like customizing something for a particular clients needs. Branches would help by allowing you to use all the work put into the master to customize it for a particular application while at the same time not changing the master so that it would still be adaptable for other customers.
+
+5) How do diagrams help you visualize the branch structure?
+	I can actually see where it branches off from the master and what commits are on the branch or the master
