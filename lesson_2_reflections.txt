@@ -13,3 +13,8 @@
 
 5) How do diagrams help you visualize the branch structure?
 	I can actually see where it branches off from the master and what commits are on the branch or the master
+
+6) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	The merge combines the two branches into one functional master branch with the added features of the branch being merged into the master. The diagram is set up that way because it makes sense and is easy to follow.
+
+7)
