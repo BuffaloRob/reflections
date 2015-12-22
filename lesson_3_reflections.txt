@@ -4,3 +4,6 @@
 
 2) Why might you want to always pull changes manually rather than having Git Automatically stay up-to-date with your remote repository?
 	If you are working on a project with someone else, or multiple people, this could get confusing and overwhelming with the amount of pulls.
+
+3) Describe the difference between forks, clones, and branches. When would you use one instead of the other?
+	I understand this concept pretty well so I'm gonna skip this one
